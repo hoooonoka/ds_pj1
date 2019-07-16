@@ -1,0 +1,10 @@
+banana:       a kind of fruit
+orange:       a kind of fruit
+:       a part of body
+apple:  fruit,sweet
+fish:       a kind of animal
+cat:       a kind of animal
+peach:     a kind of fruit, sweet
+fat: hahaha
+dog:       a kind of animal
+hand:       a part of body

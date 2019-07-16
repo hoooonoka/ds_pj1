@@ -1,0 +1,7 @@
+banana:  a kind of fruit
+orange:  a kind of fruit
+:  a part of body
+fish:  a kind of animal
+cat:  a kind of animal
+dog:  a kind of animal
+hand:  a part of body
